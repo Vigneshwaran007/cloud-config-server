@@ -6,3 +6,5 @@ healthcare:
    patient:
     uri: http://localhost:8089/patient
     name: Healthcare-Management-Patient-API
+server:
+  port: 8090
