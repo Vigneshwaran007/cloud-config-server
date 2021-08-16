@@ -1,7 +1,5 @@
 healthcare:
   management:
    patient:
-    uri: http://localhost:8089/patient
-    name: Healthcare-Management-Patient-API
     vitaluri: http://localhost:8090/vitalSign
     vitalname: Healthcare-Management-VitalSign-API
