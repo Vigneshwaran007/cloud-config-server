@@ -25,9 +25,6 @@ healthcare:
    vitalsign:
      uri: http://localhost:8090/vitalSign
      name: Healthcare-Management-VitalSign-API 
-   user:
-     uri: http://localhost:8080/users
-     name: Healthcare-Management-User-API 
    patient:
     uri: http://localhost:8089/patient
     name: Healthcare-Management-Patient-API
