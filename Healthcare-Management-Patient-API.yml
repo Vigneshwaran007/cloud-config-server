@@ -1,5 +1,5 @@
 healthcare:
   management:
    patient:
-    uri: http://localhost:8089/patient
-    name: Healthcare-Management-Patient-API
+     uri: http://localhost:8089/patient
+     name: Healthcare-Management-Patient-API
