@@ -23,11 +23,11 @@ spring:
 healthcare:
   management:
    vitalsign:
-     uri: http://localhost:8091/vitalSign
+     uri: http://localhost:8090/vitalSign
      name: Healthcare-Management-VitalSign-API 
    user:
-     uri: http://localhost:8081/users
+     uri: http://localhost:8080/users
      name: Healthcare-Management-User-API 
    patient:
-    uri: http://localhost:8081/patient
+    uri: http://localhost:8089/patient
     name: Healthcare-Management-Patient-API
